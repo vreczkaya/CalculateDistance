@@ -1,0 +1,9 @@
+C:\Users\Варвара\Desktop\Selfeducation\C#\D\bin\Debug\Distance.exe.config
+C:\Users\Варвара\Desktop\Selfeducation\C#\D\bin\Debug\Distance.exe
+C:\Users\Варвара\Desktop\Selfeducation\C#\D\bin\Debug\Distance.pdb
+C:\Users\Варвара\Desktop\Selfeducation\C#\D\bin\Debug\TestingRoom.dll
+C:\Users\Варвара\Desktop\Selfeducation\C#\D\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\Users\Варвара\Desktop\Selfeducation\C#\D\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\Варвара\Desktop\Selfeducation\C#\D\obj\Debug\Distance.csproj.CopyComplete
+C:\Users\Варвара\Desktop\Selfeducation\C#\D\obj\Debug\Distance.exe
+C:\Users\Варвара\Desktop\Selfeducation\C#\D\obj\Debug\Distance.pdb
